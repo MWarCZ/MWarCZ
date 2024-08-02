@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <title>TenValka</title>
+  <path fill="#fff" d="M0 300h400v100H0z" />
+  <path fill="#000" d="M0 100h400v200H0z" />
+  <path fill="#fff" d="M0 0h400v100H0zm20 205.3v-10.6h30.7v10.6zM51.4 250l20.2-100h11.7L63 250z" />
+  <path fill="#fff" d="M83 150h11.6L115 250h-11.7z" />
+  <path fill="#fff" d="M114.7 250 135 150h11.8l-20.4 100z" />
+  <path fill="#fff" d="M146.4 150h11.5l20.5 100h-11.8zm38.2 55.3v-10.6h30.8v10.6zM216 150h11.6L248 250h-11.8z" />
+  <path fill="#fff" d="m247.7 250 20.2-100h11.8l-20.5 100z" />
+  <path fill="#fff" d="M279.4 150h11.5l20.4 100h-11.7z" />
+  <path fill="#fff" d="m311 250 20.2-100H343l-20.4 100zm38.3-44.7v-10.6H380v10.6z" />
+</svg>
